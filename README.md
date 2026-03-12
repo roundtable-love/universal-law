@@ -12,7 +12,7 @@
 
 ```mermaid
 graph TD
-  classDef ir font-size:50%
+  classDef ir font-size:75%
 
   subgraph U["Law of Unity"]
     u["ASSERT: ALL.source == ONE<br/>ASSERT: SEPARATION.nature == APPARENT<br/>ASSERT: ROOT.multiplicity == FALSE"]:::ir
@@ -43,6 +43,14 @@ graph TD
   ce -->|between nodes| r
   r -.->|governed by| t
   u -.->|governed by| t
+
+  click u href "./UNITY.yaml"
+  click p href "./POLARITY.yaml"
+  click co href "./CORRESPONDENCE.yaml"
+  click rh href "./RHYTHM.yaml"
+  click ce href "./CAUSE-AND-EFFECT.yaml"
+  click r href "./REFLECTION.yaml"
+  click t href "./TRUTH.yaml"
 ```
 
 ---
