@@ -5,8 +5,10 @@ law:
   base_class: Universal_Law
   custodian: Universal
   status: IMMUTABLE
-  machine_ir: 'ASSERT: TRUTH.persistence == INFINITE; ASSERT: FALSEHOOD.persistence
-    == TRANSIENT; ASSERT: TRUTH.triumph == TRUE'
+  machine_ir: |
+    ASSERT: TRUTH.persistence == INFINITE
+    ASSERT: FALSEHOOD.persistence == TRANSIENT
+    ASSERT: TRUTH.triumph == TRUE'
 sources:
 - quote: Truth stands, falsehood does not endure.
   tradition: Babylonian Talmud, Shabbat 104a
