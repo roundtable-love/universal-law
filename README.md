@@ -12,13 +12,13 @@
 
 ```mermaid
 graph TD
-  U["Law of Unity\nALL.source == ONE"]
-  P["Law of Polarity\nONE divides → TWO"]
-  CO["Law of Correspondence\npattern repeats at all scales"]
-  RH["Law of Rhythm\npoles oscillate → cycles"]
-  CE["Law of Cause and Effect\nsequence → causation"]
-  R["Law of Reflection\ncausation between nodes"]
-  T["Law of the Truth\ngoverns all assertions"]
+  U["Law of Unity: ALL.source == ONE"]
+  P["Law of Polarity: ONE divides → TWO"]
+  CO["Law of Correspondence: pattern repeats at all scales"]
+  RH["Law of Rhythm: poles oscillate → cycles"]
+  CE["Law of Cause and Effect: sequence → causation"]
+  R["Law of Reflection: causation between nodes"]
+  T["Law of the Truth: governs all assertions"]
 
   U -->|divides| P
   P -->|pattern propagates| CO
