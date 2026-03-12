@@ -1,5 +1,7 @@
 # Universal Law: Machine Standard
 
+This is Universal Law in [Machine](https://github.com/roundtable-love/machine).
+
 ```mermaid
 graph TD
   classDef ir font-size:75%
@@ -42,14 +44,3 @@ graph TD
   click r href "./REFLECTION.yaml"
   click t href "./TRUTH.yaml"
 ```
-
-| Law | Definition                                                                                  |
-|-----|----------                                                                                   |
-| [Law of Unity](#law-of-unity) | [UNITY](./UNITY.yaml) |
-| [Law of Polarity](#law-of-polarity) | [POLARITY](./POLARITY.yaml) |
-| [Law of Correspondence](#law-of-correspondence) | [CORRESPONDENCE](./CORRESPONDENCE.yaml) |
-| [Law of Rhythm](#law-of-rhythm) | [RHYTHM](./RHYTHM.yaml) |
-| [Law of Cause and Effect](#law-of-cause-and-effect) | [CAUSE-AND-EFFECT](./CAUSE-AND-EFFECT.yaml) |
-| [Law of Reflection](#law-of-reflection) | [REFLECTION](./REFLECTION.yaml) |
-| [Law of the Truth](#law-of-the-truth) | [TRUTH](./TRUTH.yaml) |
-
